@@ -1,0 +1,225 @@
+{
+ "biz": {
+  "brand": "범양수산",
+  "address": "전라남도 영광군 법성면 굴비로1길 140, 1층 306호",
+  "phone": "061-356-7733",
+  "kakao": "",
+  "owner": "양은식",
+  "bizNo": "",
+  "mailOrderNo": "",
+  "email": "ysmass@naver.com",
+  "hours": "",
+  "heroImg": "assets/img/gulbi_hang.jpg",
+  "storyImg": "",
+  "bank": "신협 010-3062-2262",
+  "intro": "조기를 고르고, 짚으로 엮고, 법성포 바람에 말리는 일. 천일염 섶간과 해풍 건조를 지금도 같은 방식으로 지켜 온 굴비 제조",
+  "sms": "010-3062-2262",
+  "fax": "061-356-7010"
+ },
+ "press": [
+  {
+   "program": "KBS1 6시 내고향",
+   "episode": "식재료, 만나서 영광입니다",
+   "date": "2026-10-15",
+   "img": "assets/img/press_6si.jpg",
+   "link": "https://www.youtube.com/watch?v=N1dUsleN-kU"
+  },
+  {
+   "program": "KBS2 생생정보",
+   "episode": "2617회 · 굽이굽이 엮은 진미, 굴비",
+   "date": "2026-10-06",
+   "img": "assets/img/press_saengsaeng.jpg",
+   "link": ""
+  },
+  {
+   "program": "KBS1 6시 내고향",
+   "episode": "발길따라 고향기행 · 영광 법성포 굴비 거리",
+   "date": "2022-12-07",
+   "img": "",
+   "link": "https://www.youtube.com/watch?v=dujjTj9upu0&t=205"
+  },
+  {
+   "program": "채널A 관찰카메라 24",
+   "episode": "160회 · 영광 굴비 먹방 여행",
+   "date": "2020-10-21",
+   "img": "",
+   "link": ""
+  }
+ ],
+ "products": [
+  {
+   "id": "gift",
+   "name": "영광굴비 오가 10미 선물세트",
+   "tag": "선물용 · 원물",
+   "desc": "크고 고른 굴비 10미를 짚으로 엮어 선물 상자에 담은 오가 굴비. 손질 전 원물 그대로 보내는 방식이라 받으신 뒤 비늘과 내장 손질 후 구이나 찜으로",
+   "opts": [
+    {
+     "label": "1.1kg",
+     "price": 100000
+    },
+    {
+     "label": "1.2kg",
+     "price": 150000
+    },
+    {
+     "label": "1.3kg",
+     "price": 200000
+    },
+    {
+     "label": "1.4kg",
+     "price": 300000
+    }
+   ],
+   "imgs": [
+    "assets/img/p_gift.jpg",
+    "assets/img/p_gift_2.jpg",
+    "assets/img/p_gift_3.jpg"
+   ],
+   "origin": "조기 국산, 소금 국산",
+   "info": "구성: 굴비 10미 (오가 엮음), 선물 상자·보자기\n원산지: 조기 국산, 소금 국산\n보관: 받는 즉시 냉동 보관, 1~2마리씩 나눠 비닐에 싸서 보관\n조리: 쌀뜨물에 30분 담갔다가 지느러미·비늘 손질 후 구이 또는 찜",
+   "cat": "gift"
+  },
+  {
+   "id": "jangdae",
+   "name": "장대 굴비 1두름 20미",
+   "tag": "가정용 · 원물",
+   "desc": "반찬으로 굽기 알맞은 크기의 굴비 20미를 10미씩 두 줄로 엮은 한 두름. 손질 전 원물",
+   "opts": [
+    {
+     "label": "1.7kg",
+     "price": 80000
+    },
+    {
+     "label": "1.9kg",
+     "price": 100000
+    }
+   ],
+   "imgs": [
+    "assets/img/p_jangdae.jpg",
+    "assets/img/p_jangdae_2.jpg"
+   ],
+   "origin": "조기 국산, 소금 국산",
+   "info": "구성: 굴비 20미 (10미씩 두 줄, 1두름)\n원산지: 조기 국산, 소금 국산\n보관: 받는 즉시 냉동 보관\n조리: 비늘·내장 손질 후 구이",
+   "cat": "home"
+  },
+  {
+   "id": "vacuum",
+   "name": "진공 굴비 20미",
+   "tag": "가정용 · 원물",
+   "cat": "home",
+   "desc": "굴비 20미를 두 마리씩 진공 포장. 필요한 만큼만 꺼내 쓰기 좋은 가정용",
+   "origin": "조기 국산, 소금 국산",
+   "imgs": [
+    "assets/img/p_vacuum.jpg"
+   ],
+   "info": "구성: 굴비 20미, 두 마리씩 진공 포장, 1.8kg\n원산지: 조기 국산, 소금 국산\n보관: 냉동 보관",
+   "opts": [
+    {
+     "label": "20미 1.8kg",
+     "price": 70000
+    }
+   ]
+  },
+  {
+   "id": "bori5",
+   "name": "찐 보리굴비 5미",
+   "tag": "익힌 제품 · 데우기만",
+   "desc": "통보리에 숙성한 보리굴비를 쪄서 한 마리씩 진공 포장. 찜기나 전자레인지에 데워 바로",
+   "opts": [
+    {
+     "label": "5미",
+     "price": 59000
+    }
+   ],
+   "imgs": [
+    "assets/img/p_bori5.jpg",
+    "assets/img/p_bori5_2.jpg",
+    "assets/img/p_bori5_3.jpg"
+   ],
+   "origin": "",
+   "info": "구성: 찐 보리굴비 5미, 1미씩 진공 포장\n보관: 냉동 보관\n조리: 해동 후 찜기에 5분 또는 전자레인지 가열",
+   "cat": "bori"
+  },
+  {
+   "id": "boriflesh",
+   "name": "순살 찐 보리굴비 진공팩 (부세)",
+   "tag": "익힌 제품 · 가시 없음",
+   "desc": "찐 부세굴비에서 가시를 발라낸 살만 한 끼 분량씩 진공 포장. 해동 후 전자레인지 30초면 완성",
+   "opts": [
+    {
+     "label": "1팩",
+     "price": 12000
+    },
+    {
+     "label": "10팩",
+     "price": 120000
+    }
+   ],
+   "imgs": [
+    "assets/img/p_flesh.jpg",
+    "assets/img/p_flesh_2.jpg",
+    "assets/img/p_flesh_3.jpg"
+   ],
+   "origin": "부세 중국산, 영광 법성포 가공·건조 (식염 국내산)",
+   "info": "제품명: 영광법성포 찐 부세굴비\n원재료: 부세 99.9% (중국산), 식염 0.5% (국내산)\n소비기한: 제조일부터 12개월\n보관: 냉동 보관\n조리: 해동 후 살짝 개봉해 전자레인지 30초\n제조·판매: 범양수산",
+   "cat": "bori"
+  },
+  {
+   "id": "gochujang",
+   "name": "고추장굴비",
+   "tag": "바로 먹는 반찬",
+   "desc": "3개월 넘게 법성포에서 말린 굴비의 살만 골라 고추장에 버무린 반찬",
+   "opts": [
+    {
+     "label": "2개",
+     "price": 60000
+    },
+    {
+     "label": "4개",
+     "price": 100000
+    }
+   ],
+   "imgs": [
+    "assets/img/p_gochujang_box.jpg",
+    "assets/img/p_gochujang_rice.jpg",
+    "assets/img/p_gochujang.jpg",
+    "assets/img/p_gochujang_2.jpg"
+   ],
+   "origin": "굴비살 국내산, 고추양념·고춧가루 중국산, 밀 미국산·호주산, 마늘 국산",
+   "info": "원재료: 굴비살 55% (국내산), 고추장 30% [고추양념 (중국산), 소맥분 (밀: 미국산·호주산), 고춧가루 (고추: 중국산)], 마늘 (국산), 매실농축액, 양파, 사과, 배, 참깨\n보관: 냉장 보관",
+   "cat": "gochujang"
+  }
+ ],
+ "slides": [
+  {
+   "img": "assets/img/h_gift.jpg",
+   "title": "선물은 오가 굴비",
+   "sub": "큰 굴비만 골라 10미씩 엮은 법성포 선물세트",
+   "cat": "gift"
+  },
+  {
+   "img": "assets/img/h_home.jpg",
+   "title": "집 반찬은 장대 한 두름",
+   "sub": "굽기 좋은 크기 20미, 두 마리씩 진공 포장도 준비",
+   "cat": "home"
+  },
+  {
+   "img": "assets/img/h_bori.jpg",
+   "title": "쪄서 바로 먹는 보리굴비",
+   "sub": "데우기만 하면 한 끼, 가시를 발라낸 순살까지",
+   "cat": "bori"
+  },
+  {
+   "img": "assets/img/h_gochujang.jpg",
+   "title": "밥 한 공기, 고추장굴비",
+   "sub": "굴비 살만 골라 고추장에 버무린 반찬",
+   "cat": "gochujang"
+  },
+  {
+   "img": "assets/img/h_brand.jpg",
+   "title": "3년 넘게 간수를 뺀 천일염",
+   "sub": "법성포 위판장에서 고르고, 직접 엮고 말리는 굴비",
+   "cat": "about"
+  }
+ ]
+}
