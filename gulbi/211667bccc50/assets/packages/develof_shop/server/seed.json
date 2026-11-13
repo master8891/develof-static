@@ -1,0 +1,57 @@
+{
+ "biz": {
+  "brand": "데모 샵",
+  "address": "",
+  "phone": "",
+  "sms": "",
+  "kakao": "",
+  "kakaoId": "",
+  "owner": "",
+  "bizNo": "",
+  "mailOrderNo": "",
+  "email": "",
+  "hours": "",
+  "bank": "",
+  "fax": "",
+  "intro": "",
+  "heroImg": "",
+  "storyImg": ""
+ },
+ "products": [
+  {
+   "id": "demo-1",
+   "name": "데모 상품 1",
+   "desc": "짧은 소개 자리",
+   "detail": "상세 설명 자리",
+   "tag": "",
+   "cat": "demo",
+   "origin": "",
+   "info": "",
+   "price": 10000,
+   "was": 0,
+   "imgs": [],
+   "groups": [
+    {"name": "구성", "text": false, "required": true, "choices": [{"label": "기본", "add": 0}, {"label": "큰 사이즈", "add": 5000}]}
+   ]
+  },
+  {
+   "id": "demo-2",
+   "name": "데모 상품 2",
+   "desc": "짧은 소개 자리",
+   "detail": "",
+   "tag": "",
+   "cat": "demo",
+   "origin": "",
+   "info": "",
+   "price": 0,
+   "was": 0,
+   "imgs": [],
+   "groups": []
+  }
+ ],
+ "press": [],
+ "slides": [],
+ "faq": [
+  {"q": "데모 질문", "a": "데모 답"}
+ ]
+}
