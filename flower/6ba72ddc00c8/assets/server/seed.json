@@ -15,7 +15,8 @@
   "fax": "",
   "intro": "나의 소중한 사람을 위해 좀 더 특별한 경험을 선물하고 싶은 마음. 리프레시는 보내는 분의 마음이 꽃에 고스란히 담기도록 꽃을 고르고 디자인. 전문 플로리스트가 꽃 매입부터 컨디셔닝, 디자인, 배송까지 직접",
   "heroImg": "assets/img/f_14_0.jpg",
-  "storyImg": ""
+  "storyImg": "assets/img/n_401.jpg",
+  "bookingNote": "꽃은 받으실 날에 맞춰 들여와 준비합니다.\n날짜와 원하시는 분위기를 카카오톡으로 남겨 주시면, 그날 가능한지와 금액을 바로 알려 드립니다."
  },
  "products": [
   {
@@ -30,6 +31,7 @@
    "price": 280000,
    "was": 0,
    "imgs": [
+    "assets/img/n_2108.jpg",
     "assets/img/f_17_0.jpg",
     "assets/img/f_17_1.jpg"
    ],
@@ -273,7 +275,8 @@
    "price": 1000000,
    "was": 0,
    "imgs": [
-    "assets/img/f_18_0.jpg"
+    "assets/img/f_18_0.jpg",
+    "assets/img/n_2113.jpg"
    ],
    "groups": [
     {
@@ -296,6 +299,7 @@
    "price": 55000,
    "was": 0,
    "imgs": [
+    "assets/img/n_1296.jpg",
     "assets/img/f_19_0.jpg",
     "assets/img/f_19_1.jpg",
     "assets/img/f_19_2.jpg"
@@ -355,7 +359,9 @@
    "price": 150000,
    "was": 0,
    "imgs": [
-    "assets/img/f_21_0.jpg"
+    "assets/img/n_2012.jpg",
+    "assets/img/n_253.jpg",
+    "assets/img/n_164.jpg"
    ],
    "groups": [
     {
@@ -412,8 +418,9 @@
    "price": 140000,
    "was": 0,
    "imgs": [
-    "assets/img/f_20_0.jpg",
-    "assets/img/f_20_1.jpg"
+    "assets/img/n_1100.jpg",
+    "assets/img/n_1284.jpg",
+    "assets/img/n_306.jpg"
    ],
    "groups": [
     {
@@ -470,7 +477,9 @@
    "price": 95000,
    "was": 0,
    "imgs": [
-    "assets/img/f_16_0.jpg"
+    "assets/img/n_223.jpg",
+    "assets/img/n_337.jpg",
+    "assets/img/n_204.jpg"
    ],
    "groups": [
     {
@@ -527,7 +536,8 @@
    "price": 150000,
    "was": 0,
    "imgs": [
-    "assets/img/f_15_0.jpg"
+    "assets/img/f_15_0.jpg",
+    "assets/img/n_135.jpg"
    ],
    "groups": [
     {
@@ -578,8 +588,9 @@
    "price": 79000,
    "was": 0,
    "imgs": [
-    "assets/img/f_14_0.jpg",
-    "assets/img/f_14_1.jpg"
+    "assets/img/n_1113.jpg",
+    "assets/img/n_1091.jpg",
+    "assets/img/n_1081.jpg"
    ],
    "groups": [
     {
@@ -714,8 +725,9 @@
    "price": 89000,
    "was": 0,
    "imgs": [
-    "assets/img/f_11_0.jpg",
-    "assets/img/f_11_1.jpg"
+    "assets/img/n_189.jpg",
+    "assets/img/n_1084.jpg",
+    "assets/img/n_66.jpg"
    ],
    "groups": [
     {
@@ -772,8 +784,10 @@
    "price": 89000,
    "was": 0,
    "imgs": [
-    "assets/img/f_22_0.jpg",
-    "assets/img/f_22_1.jpg"
+    "assets/img/n_149.jpg",
+    "assets/img/n_224.jpg",
+    "assets/img/n_288.jpg",
+    "assets/img/n_130.jpg"
    ],
    "groups": [
     {
@@ -881,38 +895,22 @@
    "cat": "wedding"
   },
   {
-   "img": "assets/img/f_21_0.jpg",
+   "img": "assets/img/n_223_w.jpg",
    "title": "테이블 위의 첫인상",
    "sub": "행사·미팅·오픈을 위한 센터피스와 꽃장식을 준비해 드립니다.",
    "cat": "event"
   },
   {
-   "img": "assets/img/f_25_0.jpg",
+   "img": "assets/img/n_1081_w.jpg",
    "title": "기념일엔 크게 한 번",
    "sub": "날짜를 예약하시면 그날 가장 좋은 꽃으로 준비해 드립니다.",
    "cat": "gift"
-  },
-  {
-   "img": "assets/img/f_18_0.jpg",
-   "title": "날짜를 먼저 잡는 예약제",
-   "sub": "상담부터 시안, 예약 확정, 제작과 설치까지 함께합니다.",
-   "cat": "booking"
-  },
-  {
-   "img": "assets/img/f_11_0.jpg",
-   "title": "Refresh your days with flowers",
-   "sub": "2017년부터 마곡을 지키는 플로리스트 김신선입니다.",
-   "cat": "about"
   }
  ],
  "faq": [
   {
-   "q": "예약은 언제까지",
-   "a": "웨딩은 최소 1개월 전, 성수기인 봄·가을에는 3개월 전을 권장해 드립니다. 행사·센터피스는 2주 전, 기념일 꽃은 3일 전까지 예약해 주시면 되고, 날짜는 예약금 입금 순서로 확정됩니다."
-  },
-  {
-   "q": "당일 주문",
-   "a": "예약한 날짜에 맞춰 꽃을 매입하는 예약제로 운영하고 있어 당일 주문과 당일 배송은 어렵습니다."
+   "q": "날짜 예약",
+   "a": "받으실 날짜를 카카오톡이나 문자로 먼저 알려 주세요. 그날 가능한지 확인해 바로 답해 드립니다."
   },
   {
    "q": "배송 지역과 비용",
@@ -932,7 +930,7 @@
   },
   {
    "q": "예약 변경·취소",
-   "a": "꽃은 예약일에 맞춰 미리 매입하므로 날짜 변경·취소는 가능한 한 빨리 연락해 주세요. 예약금 환불 기준은 예약 확정 시 안내해 드립니다."
+   "a": "날짜를 바꾸시거나 취소하셔야 하면 정해지는 대로 바로 연락 주세요."
   },
   {
    "q": "꽃 오래 보는 법",
